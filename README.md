@@ -6,9 +6,11 @@
 
 - 🔭 I’m currently working on **TV 2**
 
+- 🌱 I’m currently learning **AWS, tRPC and Prisma**
+
 - 📝 I sometimes write articles on [https://chriseckert.dk/blog/](https://chriseckert.dk/blog/)
 
-- 💬 Ask me about **TypeScript, TDD, React, GraphQL or structure related**
+- 💬 Ask me about **TypeScript, TDD, React, GraphQL or structure related topics**
 
 - 📄 Know about my experiences [https://resume.chriseckert.dk/](https://resume.chriseckert.dk/)
 
