@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **AWS, tRPC and Prisma**
 
-- 📝 I sometimes write articles on [https://chriseckert.dk/blog/](https://chriseckert.dk/blog/)
+- 📝 I sometimes write articles on [https://chriseckert.dk](https://chriseckert.dk)
 
 - 💬 Ask me about **TypeScript, TDD, React, GraphQL or structure related topics**
 
-- 📄 Know about my experiences [https://resume.chriseckert.dk/](https://resume.chriseckert.dk/)
+- 📄 Know about my experiences [CV]([https://resume.chriseckert.dk/](https://garrulous-yarrow-670.notion.site/Chris-Eckert-Public-4fddace834bd447da7c367d3fbcb7bbe))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
