@@ -35,4 +35,6 @@
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="48" height="48"/> </a> 
   <!-- Playwright -->
   <a href="https://playwright.dev" target="_blank" rel="noreferrer"> <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="48" height="48"/> </a> 
+  <!-- Liveblocks -->
+  <a href="https://liveblocks.io/" target="_blank" rel="noreferrer"> <img src="https://liveblocks.io/apple-touch-icon.png" alt="liveblocks" width="48" height="48"/> </a> 
 </p>
