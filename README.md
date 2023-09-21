@@ -2,7 +2,7 @@
 <h3>Software Engineer</h3>
 
 - 👨‍💻 Currently mostly into Web Apps. I mostly build my personal projects with [create-t3-app](https://github.com/t3-oss/create-t3-app) stack
-- 💼 Work @ [TV 2 Danmark](https://tv2.dk/)
+- 💼 Work @ [Prismic](https://prismic.io/)
 - 🖥️ Check out my portfolio [https://chriseckert.dk](https://chriseckert.dk)
 - 📝 Articles available @ [Blog](https://chriseckert.dk/blog)
 - 🌍 Based in Denmark 🇩🇰
