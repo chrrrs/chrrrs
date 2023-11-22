@@ -1,5 +1,5 @@
 <h2>Hi 👋 I'm Chris</h2>
-<h3>Software Engineer</h3>
+<h3>Senior Software Engineer</h3>
 
 - 👨‍💻 Currently mostly into Web Apps. I mostly build my personal projects with [create-t3-app](https://github.com/t3-oss/create-t3-app) stack
 - 💼 Work @ [Prismic](https://prismic.io/)
@@ -7,7 +7,7 @@
 - 📝 Articles available @ [Blog](https://chriseckert.dk/blog)
 - 🌍 Based in Denmark 🇩🇰
 
-- 💬 Ask me about **TypeScript, React, Next.js, GraphQL, TDD or structure related topics**   
+- 💬 Ask me about **TypeScript, React, Next.js, GraphQL, TDD, or structure-related topics**   
 
 <!-- ![Chirs' GitHub stats](https://github-readme-stats.vercel.app/api?username=iamchrisjp&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&show_icons=true) -->
 
