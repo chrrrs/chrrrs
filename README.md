@@ -1,7 +1,7 @@
 <h2>Hi 👋 I'm Chris</h2>
 <h3>Senior Software Engineer</h3>
 
-- 👨‍💻 Currently mostly into Web Apps. I mostly build my personal projects with [create-t3-app](https://github.com/t3-oss/create-t3-app) stack
+- 👨‍💻 Currently mostly into Web Apps. I mostly build my personal projects with Next.js
 - 💼 Work @ [Prismic](https://prismic.io/)
 - 🖥️ Check out my portfolio [https://chriseckert.dk](https://chriseckert.dk)
 - 📝 Articles available @ [Blog](https://chriseckert.dk/blog)
@@ -25,8 +25,6 @@
   <a href="https://trpc.io"><img src="https://avatars.githubusercontent.com/u/78011399?s=200&v=4" width="48" height="48" alt="tRPC"/></a>
   <!-- Prisma -->
   <a href="https://prisma.io"><img src="https://www.prisma.io/images/favicon-32x32.png" width="48" height="48" alt="Prisma" /></a>
-  <!-- PlanetScale -->
-  <a href="https://planetscale.com"><img src="https://avatars.githubusercontent.com/u/35612527?s=200&v=4" width="48" height="48" alt="PlanetScale" /></a>
   <!-- Vercel -->
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/60x60.png" alt="vercel" width="48" height="48"/> </a>
   <!-- GraphQL -->
