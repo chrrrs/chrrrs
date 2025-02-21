@@ -16,7 +16,7 @@
   <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="48" height="48"/> </a>
   <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="nextjs" width="48" height="48"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://nextjs.org/favicon.ico" alt="nextjs" width="48" height="48"/> </a>
   <!-- React -->
   <a href="https://www.reactjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React" /></a>
   <!-- Tailwind -->
