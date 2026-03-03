@@ -1,6 +1,6 @@
 <h3><img src="https://cdn3.emoji.gg/emojis/8276_shibahey.png" width="24" height="24" /> Hi, I'm Chris </h3>
 
-I'm a Senior Software Engineer who designs and build software on the internet. I have a soft spot for components and design systems.<img src="https://skillicons.dev/icons?i=react" width="16"  />
+I'm a Senior Software Engineer who designs and builds software on the internet. I have a soft spot for components and design systems.<img src="https://skillicons.dev/icons?i=react" width="16"  />
 
 Type-safety above all! <img src="https://skillicons.dev/icons?i=ts" width="16"  />
 
